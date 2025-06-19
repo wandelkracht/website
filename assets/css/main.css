@@ -152,7 +152,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #e6fff5;
+		background-color: #ccffdd;
 		color: #000000;
 	}
 
@@ -6440,7 +6440,7 @@ input, select, textarea {
 			.gallery.style1 input[type="button"].primary,
 			.gallery.style1 button.primary,
 			.gallery.style1 .button.primary {
-				background-color: #e6fff5;
+				background-color: #ccffdd;
 				box-shadow: none;
 				color: #000000 !important;
 			}
@@ -6764,7 +6764,7 @@ input, select, textarea {
 			.gallery.style2 input[type="button"].primary,
 			.gallery.style2 button.primary,
 			.gallery.style2 .button.primary {
-				background-color: #e6fff5;
+				background-color: #ccffdd;
 				box-shadow: none;
 				color: #000000 !important;
 			}
@@ -7268,7 +7268,7 @@ input, select, textarea {
 
 		.wrapper.style2 > .inner {
 			padding: 5.25rem 3.5rem 3.25rem 3.5rem ;
-			background-color: #e6fff5;
+			background-color: #ccffdd;
 			border-radius: 0.5rem;
 			margin: 0 auto;
 			max-width: 100%;
@@ -8331,7 +8331,7 @@ input, select, textarea {
 				#wrapper > .invert input[type="button"].primary,
 				#wrapper > .invert button.primary,
 				#wrapper > .invert .button.primary {
-					background-color: #e6fff5;
+					background-color: #ccffdd;
 					box-shadow: none;
 					color: #000000 !important;
 				}
@@ -8400,7 +8400,7 @@ input, select, textarea {
 
 			#wrapper > .invert input[type="checkbox"]:checked + label:before,
 			#wrapper > .invert input[type="radio"]:checked + label:before {
-				background-color: #e6fff5;
+				background-color: #ccffdd;
 				border-color: #ffffff;
 				color: #000000;
 			}
