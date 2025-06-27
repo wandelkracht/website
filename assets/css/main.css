@@ -3113,10 +3113,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.0s;
+			-webkit-transition-delay: 0.0s;
+			-ms-transition-delay: 0.0s;
+			transition-delay: 0.0s;
 		}
 
 	body.is-preload .banner.onload-image-fade-up .image {
@@ -3143,10 +3143,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.0s;
+			-webkit-transition-delay: 0.0s;
+			-ms-transition-delay: 0.0s;
+			transition-delay: 0.0s;
 		}
 
 	body.is-preload .banner.onload-image-fade-down .image {
@@ -3173,10 +3173,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.0s;
+			-webkit-transition-delay: 0.0s;
+			-ms-transition-delay: 0.0s;
+			transition-delay: 0.0s;
 		}
 
 	body.is-preload .banner.onload-image-fade-left .image {
@@ -3203,10 +3203,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.0s;
+			-webkit-transition-delay: 0.0s;
+			-ms-transition-delay: 0.0s;
+			transition-delay: 0.0s;
 		}
 
 	body.is-preload .banner.onload-image-fade-right .image {
